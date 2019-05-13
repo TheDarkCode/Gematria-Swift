@@ -6,7 +6,7 @@
 //  Copyright © 2019 Mark Hamilton. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for Gematria.
 FOUNDATION_EXPORT double GematriaVersionNumber;
