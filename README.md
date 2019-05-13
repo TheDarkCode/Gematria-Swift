@@ -5,8 +5,10 @@ Gematria ciphers written in Swift.
 
 ```swift
 var source_string = "Hello, playground"
+var source_character = "a"
 
-source_string.ToEnglishOrdinal() // 185
+source_string.toEnglishOrdinal() // 185
+source_character.englishOrdinal() // 1
 ```
 
 ## CocoaPods
