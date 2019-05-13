@@ -1,0 +1,6 @@
+coverage_service: cobertura_xml
+xcodeproj: Gematria.xcodeproj
+scheme: Gematria
+output_directory: reports
+ignore:
+  - GematriaTests/*
